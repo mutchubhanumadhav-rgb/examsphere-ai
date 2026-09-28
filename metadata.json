@@ -1,0 +1,8 @@
+{
+  "name": "ExamSphere AI",
+  "description": "Global learning, entrance-exam discovery, previous papers, interactive quiz engine, and verified admission predictor platform with real-time web grounding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
